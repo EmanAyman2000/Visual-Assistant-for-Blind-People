@@ -1,6 +1,5 @@
 # Visual-Assistant-for-Blind-People
-### It is a mobile application that helps the Blind by detecting the current scene(using the camera) and
-describe it(image Captioning).
+### It is a mobile application that helps the Blind by detecting the current scene(using the camera) and describe it(image Captioning).
 ### It also interacts with the user by voice to answer his questions about the scene (Questioning answers). 
 
 APK 
